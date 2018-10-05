@@ -1,5 +1,4 @@
 from unittest.case import TestCase
-from 加羅馬句 import tshutai_tsuanhing_huho
 from 加羅馬句 import thauji_tsuan_sio_sia
 
 

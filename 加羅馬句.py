@@ -12,6 +12,7 @@ import csv
 def lowercaseLomaji(matchobj):
     return '，' + matchobj.group(1).lower()
 
+
 def thauji_tsuan_sio_sia(鬥拍字的臺羅):
     return 逗號首字.sub(lowercaseLomaji, 鬥拍字的臺羅)
 
@@ -24,6 +25,12 @@ def tshutai_tsuanhing_huho(鬥拍字的臺羅):
     臺羅句 = 臺羅句.replace("？", "? ")
     臺羅句 = 臺羅句.rstrip()
     return 臺羅句
+
+
+def tsuan(鬥拍字的臺羅):
+    一子句 = thauji_tsuan_sio_sia(鬥拍字的臺羅)
+    一子句 = tshutai_tsuanhing_huho(一子句)
+    return 一子句
 
 
 def _tau_phah_ji(漢字句):
@@ -43,10 +50,10 @@ def _tau_phah_ji(漢字句):
         to_guan_arr = json.loads(pkg_str)
         try:
             # 提多元書寫的臺羅
-            羅馬句 = ""
-            for 一多元 in to_guan_arr['多元書寫']:
-                一子句 = tshutai_tsuanhing_huho(一多元['臺羅'])
-                羅馬句 += 一子句
+            完整句 = ""
+            for 子句 in to_guan_arr['多元書寫']:
+                完整句 += 子句['臺羅']
+            羅馬句 = tsuan(完整句)
         except ValueError:
             print('可能格式錯誤：{}\n\n'.format(漢字句))
         except IndexError:
