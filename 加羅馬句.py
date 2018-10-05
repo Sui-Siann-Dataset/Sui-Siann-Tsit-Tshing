@@ -6,6 +6,25 @@ import json
 from json.decoder import JSONDecodeError
 import csv
 
+逗號首字 = re.compile('， *(.)')
+
+
+def lowercaseLomaji(matchobj):
+    return '，' + matchobj.group(1).lower()
+
+def thauji_tsuan_sio_sia(鬥拍字的臺羅):
+    return 逗號首字.sub(lowercaseLomaji, 鬥拍字的臺羅)
+
+
+def tshutai_tsuanhing_huho(鬥拍字的臺羅):
+    # 因為鬥拍字的羅馬字袂轉做半形符號
+    臺羅句 = 鬥拍字的臺羅.replace("，", ", ")
+    臺羅句 = 臺羅句.replace("。", ". ")
+    臺羅句 = 臺羅句.replace("！", "! ")
+    臺羅句 = 臺羅句.replace("？", "? ")
+    臺羅句 = 臺羅句.rstrip()
+    return 臺羅句
+
 
 def _tau_phah_ji(漢字句):
     # 補段落的羅馬字
@@ -24,7 +43,10 @@ def _tau_phah_ji(漢字句):
         to_guan_arr = json.loads(pkg_str)
         try:
             # 提多元書寫的臺羅
-            羅馬句 = to_guan_arr['多元書寫'][0]['臺羅']
+            羅馬句 = ""
+            for 一多元 in to_guan_arr['多元書寫']:
+                一子句 = tshutai_tsuanhing_huho(一多元['臺羅'])
+                羅馬句 += 一子句
         except ValueError:
             print('可能格式錯誤：{}\n\n'.format(漢字句))
         except IndexError:
@@ -72,11 +94,11 @@ def _thoo_sin_e_csv(全部句陣列):
 def _thoo_txt(全部句陣列):
     with open("日語外來詞kap例句.txt", 'w', encoding='utf-8') as txtTong:
         for 句 in 全部句陣列:
-            print(句['華語'],file=txtTong)
-            print(句['臺羅'],file=txtTong) 
-            print(句['例句漢'],file=txtTong) 
-            print(句['例句羅'],file=txtTong)
-            print("",file=txtTong)
+            print(句['華語'], file=txtTong)
+            print(句['臺羅'], file=txtTong)
+            print(句['例句漢'], file=txtTong)
+            print(句['例句羅'], file=txtTong)
+            print("", file=txtTong)
 
 
 def _khangkhue():
@@ -84,6 +106,7 @@ def _khangkhue():
     # 目前無需要轉出csv
     #_thoo_sin_e_csv(全部句陣列)
     _thoo_txt(全部句陣列)
+
 
 if __name__ == '__main__':
     _khangkhue()
