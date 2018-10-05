@@ -57,13 +57,33 @@ def _thak_guanpun_csv():
                     '例句漢': 逝['例句2'],
                     '例句羅': 羅馬句
                 })
-                break
     return 全部句陣列
+
+
+def _thoo_sin_e_csv(全部句陣列):
+    with open("日語外來詞kap例句.csv", 'w', newline='', encoding='utf-8') as csvTong:
+        欄位 = ['華語', '臺羅', '例句漢', '例句羅']
+        writer = csv.DictWriter(csvTong, 欄位, delimiter='|')
+        writer.writeheader()
+        for 句 in 全部句陣列:
+            writer.writerow(句)
+
+
+def _thoo_txt(全部句陣列):
+    with open("日語外來詞kap例句.txt", 'w', encoding='utf-8') as txtTong:
+        for 句 in 全部句陣列:
+            print(句['華語'],file=txtTong)
+            print(句['臺羅'],file=txtTong) 
+            print(句['例句漢'],file=txtTong) 
+            print(句['例句羅'],file=txtTong)
+            print("",file=txtTong)
 
 
 def _khangkhue():
     全部句陣列 = _thak_guanpun_csv()
-    print(全部句陣列)
-    
+    # 目前無需要轉出csv
+    #_thoo_sin_e_csv(全部句陣列)
+    _thoo_txt(全部句陣列)
+
 if __name__ == '__main__':
     _khangkhue()
