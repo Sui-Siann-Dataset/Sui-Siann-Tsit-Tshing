@@ -13,7 +13,6 @@ def _thak_koosu_txt(檔名):
                 '句漢': tsua,
                 '句羅': 羅馬句
             })
-            break
     return 全部句陣列
 
 
