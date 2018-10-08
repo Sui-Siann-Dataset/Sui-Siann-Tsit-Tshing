@@ -22,7 +22,9 @@ def tshutai_tsuanhing_huho(鬥拍字的臺羅):
     臺羅句 = 鬥拍字的臺羅.replace("，", ", ")
     臺羅句 = 臺羅句.replace("。", ". ")
     臺羅句 = 臺羅句.replace("！", "! ")
-    臺羅句 = 臺羅句.replace("？", "? ")
+    臺羅句 = 臺羅句.replace("：", ": ")
+    臺羅句 = 臺羅句.replace("「", '"')
+    臺羅句 = 臺羅句.replace("」", '"')
     臺羅句 = 臺羅句.rstrip()
     return 臺羅句
 
