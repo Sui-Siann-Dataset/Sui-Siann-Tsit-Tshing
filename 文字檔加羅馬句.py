@@ -1,4 +1,5 @@
 from 加羅馬句 import _tau_phah_ji
+import sys
 
 
 def _thak_koosu_txt(檔名):
@@ -16,19 +17,25 @@ def _thak_koosu_txt(檔名):
     return 全部句陣列
 
 
-def _thoo_txt(全部句陣列):
-    with open("../Gin-A-Koo/漢羅句.txt", 'w', encoding='utf-8') as txtTong:
+def _thoo_txt(全部句陣列, 輸出檔名):
+    with open(輸出檔名, 'w', encoding='utf-8') as txtTong:
         for 句 in 全部句陣列:
             print(句['句漢'], file=txtTong)
             print(句['句羅'], file=txtTong)
             print("", file=txtTong)
 
 
-def _khangkhue(檔名):
+def _khangkhue(原始檔名, 輸出檔名):
     # gin-a-koo文字檔
-    全部句陣列 = _thak_koosu_txt(檔名)
-    _thoo_txt(全部句陣列)
+    全部句陣列 = _thak_koosu_txt(原始檔名)
+    _thoo_txt(全部句陣列, 輸出檔名)
 
 
 if __name__ == '__main__':
-    _khangkhue("../Gin-A-Koo/賣圓仔的神仙_林麗黛.txt")
+    try:
+        原始檔名 = sys.argv[1]
+        輸出檔名 = sys.argv[2]
+    except IndexError:
+        print('請傳原始檔名kah輸出檔名……')
+        exit(0)
+    _khangkhue(原始檔名, 輸出檔名)
