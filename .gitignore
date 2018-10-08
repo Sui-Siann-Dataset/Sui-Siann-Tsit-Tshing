@@ -1,1 +1,5 @@
 .~lock.*
+.project
+.pydevproject
+venv/
+__pycache__/
