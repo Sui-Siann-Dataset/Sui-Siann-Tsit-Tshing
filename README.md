@@ -1,13 +1,18 @@
 # Sui-Siann-Tsit-Tshing
 
+License CC BY-SA
 
 
-##日語外來詞的例句
+## 廣播詞
 
-佇日語外來詞kap例句.txt。
+作者：爸媽，Sih Tiong-tsì（薛仲志）kah 賴麗格（Luā Lē-keh）。
 
-感謝iTaigi整理的詞清單，臺灣閩南語常用詞辭典-外來詞-glll4678整理.csv，阮是tsū這个檔案開始的。
+Lóo-la̍t!
 
-感謝阿叔Tshuà Tsùn-kia̍t（蔡俊傑）提供日語詞的例句。
+##日語外來詞例句
 
+日語外來詞kap例句.txt是頭。
 
+作者：阿叔，Tshuà Tsùn-kia̍t（蔡俊傑）。
+
+感謝iTaigi整理的詞清單，臺灣閩南語常用詞辭典-外來詞-glll4678整理.csv，阮是tsū這个檔案開始的。Lóo-la̍t!
