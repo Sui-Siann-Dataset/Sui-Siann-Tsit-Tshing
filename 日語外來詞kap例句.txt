@@ -5,8 +5,8 @@ Hit-hō a-lú-mih tiánn tsiânn khin
 
 鋁
 a-lú-mih
-彼號a-lú-mih仔鼎誠輕
-Hit-hō a-lú-mih-á tiánn tsiânn khin
+這kâi a-lú-mih仔鼎誠輕
+Tsit kâi a-lú-mih-á tiánn tsiânn khin
 
 阿摩尼亞
 a-móo-ní-á
@@ -90,13 +90,13 @@ Lí ē-tàng iōng bai-óo-lín ián-tsàu tsi̍t siú lâi hōo ta̍k-ke him-si
 
 黴菌
 ba̋i-khín
-彼水果外口菇生遐爾長乎，ba̋i-khín足濟，毋好食矣，愛擲掉
-He tsuí-kó guā-kháu koo senn hiah-nī tn̂g--honnh, ba̋i-khín tsiok tsē, m̄ hó tsia̍h--ah, ài tàn-tiāu
+彼水果外口菇生遐爾長乎，ba̋i-khín足濟，毋好閣食矣，愛擲掉
+He tsuí-kó guā-kháu koo senn hiah-nī tn̂g--honnh, ba̋i-khín tsiok tsē, m̄ hó koh tsia̍h--ah, ài tàn-tiāu
 
 黴菌
 ba̋i-khún
-彼水果外口菇生遐爾長乎，ba̋i-khún足濟，毋好食矣，愛擲掉
-He tsuí-kó guā-kháu koo senn hiah-nī tn̂g--honnh, ba̋i-khún tsiok tsē, m̄ hó tsia̍h--ah, ài tàn-tiāu
+彼果子外口菇生遐爾長乎，ba̋i-khún足濟--的。愛擲掉，毋通閣食矣。
+He kué-tsí guā-kháu koo senn hiah-nī tn̂g--honnh, ba̋i-khún tsiok tsē--ê. Ài tàn-tiāu, m̄ thang koh tsia̍h--ah.
 
 細菌
 ba̋i-khín
@@ -105,8 +105,8 @@ Lí phah-ka-tshiùnn ài īng tshiú khì am--leh--ooh, nā-bô ba̋i-khín ē s
 
 細菌
 ba̋i-khún
-你拍咳啾愛用手去掩咧喔，若無ba̋i-khún會四界飛
-Lí phah-ka-tshiùnn ài īng tshiú khì am--leh--ooh, nā-bô ba̋i-khún ē sì-kè pue
+你拍咳啾愛掩咧喔，若無掩牢，ba̋i-khún會四界飛
+Lí phah-ka-tshiùnn ài am--leh--ooh, nā-bô am-tiâu, ba̋i-khún ē sì-kè pue
 
 倒車
 bak-kuh
@@ -135,8 +135,8 @@ He tiān-tōng-tshia--honnh tsáu bē tín-tāng, ing-kai sī bô-tiān--ah. Ài
 
 蓄電池
 ba̍t-té-luh
-彼電動車乎走袂振動，應該是無電矣。愛共ba̍t-té-luh挈出來充電一下。
-He tiān-tōng-tshia--honnh tsáu bē tín-tāng, ing-kai sī bô-tiān--ah. Ài kā ba̍t-té-luh khe̍h tshut-lâi tshiong-tiān--tsi̍t-ē.
+彼台電動車走袂振動，恐kia̋nn是無電矣。愛共伊的ba̍t-té-luh挈出來充電一下。
+He tai5 tiān-tōng-tshia tsáu bē tín-tāng, khong-kia̋nn sī bô-tiān--ah. Ài kā i ē ba̍t-té-luh khe̍h tshut-lâi tshiong-tiān--tsi̍t-ē.
 
 球棒
 bat-tah
@@ -205,12 +205,12 @@ Lán lâi giāng khuànn siánn sing tshut-lâi pí-sài.
 
 猜拳
 jia̋ng-kín
-咱來jia̋ng-kín看啥先出來比賽。
-Lán lâi jia̋ng-kín khuànn siánn sing tshut-lâi pí-sài.
+咱來jia̋ng-kín看啥先去食飯。
+Lán lâi jia̋ng-kín khuànn siánn sing khì tsia̍h-pn̄g.
 
 牛蒡
 gōo-bōo
-gōo-bōo較柯、較粗絲，嘛幫助咱消化，你愛加食一點仔。
+Gōo-bōo較柯、較粗絲，嘛幫助咱消化，你愛加食一點仔。
 Gōo-bōo khah kua, khah tshoo-si, mā pang-tsōo lán siau-huà, lí ài ke tsia̍h--tsi̍t-tiám-á.
 
 高爾夫球
@@ -390,8 +390,8 @@ Beh kuè-nî--ah, khà-sàng tsit kuí kang lóng tih tsàu-kha bô-îng.
 
 母親
 khà-tsiàng
-欲過年矣，khà-tsiàng這幾工攏咧灶跤無閒。
-Beh kuè-nî--ah, khà-tsiàng tsit kuí kang lóng leh tsàu-kha bô-îng.
+欲過年矣，khà-tsiàng這幾工攏咧無閒。
+Beh kuè-nî--ah, khà-tsiàng tsit kuí kang lóng leh bô-îng.
 
 結束
 kha̋n-jióo
@@ -1060,13 +1060,13 @@ Hit tànn àm-sî tī iā-tshī-á leh bē thia̋n-pú-lah, tsiânn siū huan-g�
 
 卡車
 thoo-lá-khuh
-Thoo-lá-khuh駛過去了後空氣誠䆀。
-Thoo-lá-khuh sái--kuè-khì liáu-āu khong-khì tsiânn bái.
+駛thoo-lá-khuh了後，伊的健康變誠䆀。
+Sái thoo-lá-khuh liáu-āu, i ê kiān-khong piàn tsiânn bái.
 
 卡車
 thoo-lá-khuh
-Thoo-lá-khuh駛過去，烏煙黗飛四界，空氣誠䆀。
-Thoo-lá-khuh sái--kuè-khì, oo-ian-thûn pue sì-kè, khong-khì tsiânn bái.
+Thoo-lá-khuh駛過去了後，烏煙黗飛四界，空氣誠䆀。
+Thoo-lá-khuh sái--kuè-khì liáu-āu, oo-ian-thûn pue sì-kè, khong-khì tsiânn bái.
 
 西紅柿
 thoo-má-tooh
@@ -1125,8 +1125,8 @@ Tshīng ua̋i-siat-tsuh khuànn--khí-lâi khah ū tsing-sîn.
 
 白襯衫
 ua̋i-siá-tsuh
-穿ua̋i-siá-tsuh看起來較有精神款。
-Tshīng ua̋i-siá-tsuh khuànn--khí-lâi khah ū tsing-sîn khuán.
+你穿ua̋i-siá-tsuh看起來較有精神款。
+Lí tshīng ua̋i-siá-tsuh khuànn--khí-lâi khah ū tsing-sîn khuán.
 
 運將
 ùn-tsiàng
