@@ -100,7 +100,7 @@ def _thoo_sin_e_csv(全部句陣列):
             writer.writerow(句)
 
 
-def _thoo_txt(全部句陣列):
+def _thoo_su_kah_ku_txt(全部句陣列):
     with open("日語外來詞kap例句.txt", 'w', encoding='utf-8') as txtTong:
         for 句 in 全部句陣列:
             print(句['華語'], file=txtTong)
@@ -114,7 +114,7 @@ def _khangkhue():
     全部句陣列 = _thak_guanpun_csv()
     # 目前無需要轉出csv
     #_thoo_sin_e_csv(全部句陣列)
-    _thoo_txt(全部句陣列)
+    _thoo_su_kah_ku_txt(全部句陣列)
 
 
 if __name__ == '__main__':
