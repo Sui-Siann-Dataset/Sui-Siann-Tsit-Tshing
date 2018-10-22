@@ -3,29 +3,24 @@ import sys
 from 加羅馬句 import _tau_phah_ji
 from 文字檔加羅馬句 import _thoo_ku_txt
 
-def _thak_guanpun_csv():
+
+def _thak_guanpun_csv(原始檔名):
     全部句陣列 = []
-    with open("../動詞輕聲詞.csv", 'r') as csvTong:
+    with open(原始檔名, 'r') as csvTong:
         rows = csv.DictReader(csvTong)
         for 逝 in rows:
-            if 逝['例XXXXXX句1'] and 逝['例句1'] != "x":
-                羅馬句 = _tau_phah_ji(逝['例XXXX句1'])
+            if 逝['例句'] and 逝['例句'][0] != '*':
+                羅馬句 = _tau_phah_ji(逝['例句'])
                 全部句陣列.append({
-                    '句漢': 逝['例句1'],
-                    '句羅': 羅馬句
-                })
-            if 逝['例XXXXXXX句2'] and 逝['例句2'] != "x":
-                羅馬句 = _tau_phah_ji(逝['例句XXXX2'])
-                全部句陣列.append({
-                    '句漢': 逝['例句2'],
+                    '句漢': 逝['例句'],
                     '句羅': 羅馬句
                 })
     return 全部句陣列
 
-def _khangkhue(原始檔名, 輸出檔名):
-    全部句陣列 = _thak_guanpun_csv()
-    _thoo_ku_txt(全部句陣列, 輸出檔名)
 
+def _khangkhue(原始檔名, 輸出檔名):
+    全部句陣列 = _thak_guanpun_csv(原始檔名)
+    _thoo_ku_txt(全部句陣列, 輸出檔名)
 
 
 if __name__ == '__main__':
