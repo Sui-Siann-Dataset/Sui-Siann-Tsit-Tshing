@@ -16,7 +16,7 @@ def _thak_koosu_txt(檔名):
     return 全部句陣列
 
 
-def _thoo_txt(全部句陣列, 輸出檔名):
+def _thoo_ku_txt(全部句陣列, 輸出檔名):
     with open(輸出檔名, 'w', encoding='utf-8') as txtTong:
         for 句 in 全部句陣列:
             print(句['句漢'], file=txtTong)
@@ -27,7 +27,7 @@ def _thoo_txt(全部句陣列, 輸出檔名):
 def _khangkhue(原始檔名, 輸出檔名):
     # gin-a-koo文字檔
     全部句陣列 = _thak_koosu_txt(原始檔名)
-    _thoo_txt(全部句陣列, 輸出檔名)
+    _thoo_ku_txt(全部句陣列, 輸出檔名)
 
 
 if __name__ == '__main__':
