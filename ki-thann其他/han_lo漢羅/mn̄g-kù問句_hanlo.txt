@@ -1,8 +1,8 @@
 時鐘，時鐘，你哪會遮無閒?
 Sî-tsing, sî-tsing, lí ná-ē tsiah bô-îng?
 
-你的快樂佇佗位?
-Lí ê khuài-lo̍k tī tó-uī?
+你的幸福佇佗位?
+Lí ê hīng-hok tī tó-uī?
 
 鉛筆盒仔貯啥物?
 Iân-pit-a̍p-á té siánn-mi̍h?
@@ -37,11 +37,11 @@ Lán ê tshia-uī tī toh?
 空格仔內揀佗一个選項上妥當？
 Khang-keh-á lāi kíng tó tsi̍t ê suán-hāng siōng thò-tòng?
 
-請問下底佗一个選項無這款的用法？
-Tshiánn-mn̄g ē-té tó tsi̍t ê suán-hāng bô tsit khuán ê iōng-huat?
+請問下底佗一句的講法咱台語袂按呢講？
+Tshiánn-mn̄g ē-té tó tsi̍t kù ê kóng-huat lán Tâi-gí bē án-ne kóng?
 
-請問這句話描述的內容，袂當用下底佗一句來代替？
-Tshiánn-mn̄g tsit kù uē biâu-su̍t ê luē-iông, bē-tàng iōng ē-té tó tsi̍t kù lâi tāi-thè?
+請問這句話描述的內容，袂當用下底佗一句來替？
+Tshiánn-mn̄g tsit kù uē biâu-su̍t ê luē-iông, bē-tàng iōng ē-té tó tsi̍t kù lâi thè?
 
 請問下跤佗一項較符合對話的情境？
 Tshiánn-mn̄g ē-kha tó tsi̍t hāng khah hû-ha̍p tuì-uē ê tsîng-kíng?
@@ -56,7 +56,7 @@ A-hiân kuí huè? Kóng-uē ê khuì-kháu bē-su tuā thâu-ke.
 Lāu-su tú-tsiah kóng--ê sī siánn-mih ì-sù? Guá bô-sè-jī khùn--khì--ah, siánn-mi̍h lóng bô thiann--kìnn.
 
 敲電話欲揣方小姐的是啥物人？
-Khà-tiān-uē beh tshuē Hong sió-tsiá--ê sī siánn-mih lâng?
+Khà-tiān-uē beh tshuē Png sió-tsiá--ê sī siánn-mih lâng?
 
 阿婆佮先生娘上（siāng）有可能是啥物關係？
 A-pô kah sian-sinn-niû siāng ū khó-lîng sī siánn-mih kuan-hē?
@@ -85,8 +85,8 @@ Tse ia̍h he?
 這个抑是彼个？
 Tsit ê ia̍h-sī hit ê?
 
-你是欲去台北，抑是欲去台南？
-Lí sī beh khì Tâi-pak, ia̍h-sī beh khì Tâi-lâm?
+阿妹仔是欲去台北，抑是欲去台南？
+A-mē-á sī beh khì Tâi-pak, ia̍h-sī beh khì Tâi-lâm?
 
 你講咧?
 Lí kóng--leh?
@@ -103,7 +103,7 @@ Bîn-á-tsài tshe-kuí?
 阿娘你買幾片？
 A-niâ lí bué kuí phìnn?
 
-今年是光元幾年？
+今年是公元幾年？
 Kin-nî sī kong-goân kuí nî?
 
 這箍敢是你？
@@ -127,7 +127,7 @@ Tsit ki pit i--ê--honnh?
 這任里長是阿賓伯著毋？
 Tsit jīm lí-tiúnn sī A-pin peh tio̍h--m̄?
 
-近來身體好無？
+最近身體好無？
 Tsuè-kīn sin-thé hó--bô?
 
 近來身體好毋？
@@ -145,8 +145,8 @@ I ē-hiáu--bē?
 你欲佮我做伙來去食飯無？
 Lí beh kah guá tsò-hué lâi-khì tsia̍h-pn̄g--bô?
 
-你欲佮咱鬥陣來去食飯乎？
-Lí beh kah lán tàu-tīn lâi-khì tsia̍h-pn̄g--honnh?
+你欲佮阮鬥陣來去食飯乎？
+Lí beh kah gún tàu-tīn lâi-khì tsia̍h-pn̄g--honnh?
 
 會使借錢抑是袂使？
 Ē-sái tsioh tsînn ia̍h-sī bē-sái?
@@ -162,4 +162,7 @@ Tsia̍h-pá--buē?
 
 講好六點踮（tàm）遮相等，啊人le？
 Kóng hó la̍k tiám tàm tsia siòng tán, ah lâng le?
+
+A-i你敢有快樂?
+A-i lí kám ū khuài-lo̍k?
 
