@@ -256,23 +256,23 @@ Tsiânn tsē ha̍k-hāu thâu tsi̍t mn̂g khò tō sī kà C plus plus--ê.
 我是寫C的，你咧？
 Guá sī siá C--ê, lí--leh?
 
-我拄才去看車，TIIDA敢若閣袂bai2。
-Guá tú-tsiah khì-khuànn tshia, tIIDA kán-ná koh bē-bái.
+我拄才去看車，彼號TIIDA的後斗敢若閣袂䆀。
+Guá tú-tsiah khì-khuànn tshia, hit-lō TIIDA ê āu-táu kán-ná koh bē-bái.
 
 阮兜攏駛Toyota的Camry，較慣勢。
 Guán tau lóng sái Toyota ê Camry, khah kuàn-sì.
 
 你這領T-shirt皺皺，提去熨熨--咧--啦。
-Lí tsit-niá T - shirt jiâu-jiâu, the̍h--khì ut ut leh--lah.
+Lí tsit niá T-shirt jiâu-jiâu, the̍h-khì ut-ut-leh--lah.
 
 想欲家己看VR，就愛先去買一組較好的GPU設備。
-Siūnn-beh ka-kī khuànn VR, tō ài sing-khì bé tsi̍t-tsoo khah-hó-ê GPU siat-pī.
+Siūnn-beh ka-kī khuànn VR, tō ài sing khì bé tsi̍t tsoo khah hó ê GPU siat-pī.
 
-這陣AI就phann--的，講著AI就袂輸會趁大錢仝款。
-Tsit-tsūn ai tō phann ê, kóng-tio̍h ai tō bē-su ē thàn-tuā-tsînn kāng-khuán.
+這陣AI足脬--的，講著AI就袂輸會趁大錢仝款。
+Tsit tsūn AI tsiok pha--ê, kóng-tio̍h AI tō bē-su ē thàn-tuā-tsînn kāng-khuán.
 
 這个機器人的TTS是用HTS抑是Tacotron2做的？
-Tsit-ê ke-khì lâng-ê TTS sī-īng HTS ia̍h-sī Tacotron2 tsò--ê?
+Tsit ê ke-khì lâng ê TTS sī īng HTS ia̍h-sī Tacotron2 tsò--ê?
 
 你敢捌聽過ABCD狗咬豬？
 Lí kánn bat thiann-kuè ABCD káu kā tu?
