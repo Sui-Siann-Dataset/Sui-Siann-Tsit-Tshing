@@ -316,23 +316,23 @@ In ê server lóng sī tsng Linux--ê, khah hó kuán-lí.
 推薦你用Ubuntu看覓，伊生了佮Windows仝款仔仝款。
 Thui-tsiàn lí iōng Ubuntu khuànn-māi, i senn-liáu kah Windows kāng-khuán-á kāng-khuán.
 
-Windows Vista 佮 Windows 7 的字型攏有支援 Extension-B的 Unicode字--矣。
-Windows Vista kah Windows 7 ê jī-hîng lóng-ū tsi-uān Extension - B ê Unicode jī--ah.
+Windows Vista佮Windows 7的字型攏有支援Unicode Extension-B的字--矣。
+Windows Vista kah Windows 7 ê jī-hîng lóng ū tsi-uān Unicode Extension-B ê jī--ah.
 
 你手機仔是Android抑是iPhone的？
-Lí tshiú-ki á-sī Android ia̍h-sī iPhone ê?
+Lí tshiú-ki-á sī Android ia̍h-sī iPhone--ê?
 
-愛lap錢，用PayPal 口座抑是用信用卡鑢攏會使。
-Ài lap tsînn, iōng PayPal kháu-tsō ia̍h sī-īng sìn-iōng-khá lē lóng-ē-sái.
+愛納錢，用PayPal的口座抑是用信用卡攏會使鑢。
+Ài la̍p-tsînn, iōng PayPal kháu-tsō ia̍h-sī īng sìn-iōng-khá lóng ē-sái lù.
 
-莫閣用big five--矣，用UTF-8較袂出問題--啦。
-Bo̍k koh-īng big five--ah, iōng UTF - 8 khah-bē tshut-būn-tê--lah.
+莫閣用Big5--矣，用UTF-8較袂出問題--啦。
+Mài koh īng Big five--ah, iōng UTF-8 khah bē tshut būn-tê--lah.
 
-Email我的寄--矣，嘛有CC一份予阮總--的。
-Email guá-ê kià--ah, mā-ū CC tsi̍t-hūn hōo gún tsóng ê.
+Email我寄--矣，嘛有CC一份予阮總--的。
+Email guá kià--ah, mā ū CC tsi̍t hūn hōo gún tsóng--ê.
 
-我無收著你email，你敢是寄去我的gmail？
-Guá-bô siu--tio̍h lí email, lí kám-sī kià khì guá-ê gmail?
+唅？我無收著你email啊，你敢是寄去我的Gmail？
+Hannh? Guá bô siu-tio̍h lí email--ah, lí kám sī kià khì guá ê Gmail?
 
 頭家！一碗lak8-a2麵，一份lòo-suh尾！
 Thâu-ke! Tsi̍t-uánn la̍k á mī, tsi̍t-hūn lòo suh bé!
