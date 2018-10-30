@@ -299,22 +299,22 @@ Hit king gîn-hâng ū sak JCB ê khah, kóng siánn-mih... iōng JCB tō hōo l
 E-tsái-á ū lâng khà-tiān-uē lâi, kóng siánn-mih tsit kò gue̍h tī tiàm-lāi lù JCB lù tshiau-kuè tsi̍t-tshing khoo tō sàng hó-khang。
 
 這五年咱台灣的GDP攏增加2 pha，主計處節過講，今年的GDP可能會比5萬2304箍美金閣較懸。
-Tsit gōo nî lán Tâi-uân ê GDP lóng tsing-ka 2 pha, tsú-kè-tshù tseh kè kóng, kin-nî-ê GDP khó-lîng ē-pí 5 bān 2304 khoo bí-kim koh khah-kuân.
+Tsit gōo nî lán Tâi-uân ê GDP lóng tsing-ka 2 pha, tsú-kè-tshù tsat-kuè kóng, kin-nî ê GDP khó-lîng ē pí gōo-bān nn̄g-tshing sann-pah khòng sì khoo bí-kim koh-khah kuân.
 
-學校的BBS無人tih用，收收--起-來--矣。
-Ha̍k-hāu-ê BBS bô-lâng tih iōng, siu siu--khí-lâi--ah.
+學校的BBS無人咧用，收收起來矣。
+Ha̍k-hāu ê BBS bô lâng tih iōng, siu-siu--khí-lâi--ah.
 
 這擺錄音就照SOP做就好矣。
-Tsit-pái lio̍k-im tō tsiò sop tsò tō hó--ah.
+Tsit pái lo̍k-im tō tsiàu SOP tsò tō hó--ah.
 
-In就是無訂SOP，才會逐擺攏會漏勾物件。
-In tō sī--bô tìng sop, tsiah-ē ta̍k-pái lóng-ē lāu kau mi̍h-kiānn.
+In就是無定SOP，才會逐擺攏會落勾物件。
+In tō sī bô tīng SOP, tsiah ē ta̍k-pái lóng ē làu-kau mi̍h-kiānn.
 
-In的server攏是裝LInux--的，較好管理。
-In-ê server lóng-sī tsng LInux ê, khah-hó kuán-lí.
+In的server攏是裝Linux的，較好管理。
+In ê server lóng sī tsng Linux--ê, khah hó kuán-lí.
 
-紹介你用Ubuntu看覓，伊生了佮Windows就像的。
-Siāu-kài lí-iōng Ubuntu khuànn-māi, i senn-liáu kah Windows tō tshiūnn ê.
+推薦你用Ubuntu看覓，伊生了佮Windows仝款仔仝款。
+Thui-tsiàn lí iōng Ubuntu khuànn-māi, i senn-liáu kah Windows kāng-khuán-á kāng-khuán.
 
 Windows Vista 佮 Windows 7 的字型攏有支援 Extension-B的 Unicode字--矣。
 Windows Vista kah Windows 7 ê jī-hîng lóng-ū tsi-uān Extension - B ê Unicode jī--ah.
