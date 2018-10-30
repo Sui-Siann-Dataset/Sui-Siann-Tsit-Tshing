@@ -221,40 +221,40 @@ Tshuah-ping lāi-té tsham tsi̍t-kuá Oreo mā tsiânn hó-tsia̍h.
 Thiann-kóng in kong-si āu-ji̍t àm-sî ài pān it-tiûnn party.
 
 拄才公園內有誠濟人佇遐耍Pokémon。
-Tú-tsiah kong-hn̂g-lāi ū-tsiânn-tsē lâng-tī hiâ sńg Pokémon.
+Tú-tsiah kong-hn̂g-lāi ū tsiânn tsē lâng tī hia sńg Pokémon.
 
-象仔隊今仔日kong3遐bai2，一下仔就GG--矣。
-Tshiūnn á tuī kin-á-ji̍t kòng hiâ bái, tsi̍t-ē-á tō GG--ah.
+象仔隊今仔日摃遐䆀，一下仔就GG--矣。
+Tshiūnn-á-tuī kin-á-ji̍t kòng hiâ bái, tsi̍t-ē-á tō GG--ah.
 
-伊上PTT去phoo文投in爸母按呢tu2按呢，結果無人插--伊。
-I tsiūnn PTT khì phoo bûn tâu in pē-bú án-ne tú án-ne, kiat-kó bô-lâng tshap--i.
+伊上PTT去phoo文投in爸母按怎拄按怎，結果無人插--伊。
+I tsiūnn PTT khì phoo bûn tâu in pē-bú án-nuá tú án-nuá, kiat-kó bô lâng tshap--i.
 
-這程式是用python寫--的，因為python的語法較簡單。
-Tsit thîng-sik sī-īng python siá-ê, in-uī python ê gí-huat khah kán-tan.
+這程式是用Python寫--的，因為Python的語法較簡單。
+Tse thîng-sik sī īng Python siá--ê, in-uī Python ê gí-huat khah kán-tan.
 
-JS就是JavaScript--a，共你講你攏袂記得--矣。
-JS tō-sī JavaScript--a, kā lí kóng-lí lóng bē-kì--tit--ah.
+JS就是JavaScript啊，共你講你攏袂記得矣。
+JS tō sī JavaScript--a, kā lí kóng lí lóng bē-kì--tit--ah.
 
-React敆Redux做伙用誠四序。
-React kap Redux tsò-hué-iōng tsiânn sù-sī.
+React佮Redux敆做伙用誠四序。
+React kah Redux kap tsò-hué iōng tsiânn sù-sī.
 
 這網站敢有用著Redux？
-Tsit bāng-tsām kám-ū īng-tio̍h Redux?
+Tse bāng-tsām kám ū iōng-tio̍h Redux?
 
-這馬寫網站誠忝頭，攏愛用著webpack才有通做代誌。
-Tsit-má siá bāng-tsām tsiânn thiám-thâu, lóng-ài īng-tio̍h webpack tsiah ū-thang tsò-tāi-tsì.
+這馬寫網站誠忝頭，攏愛用著Webpack才有通做代誌。
+Tsit-má siá bāng-tsām tsiânn thiám-thâu, lóng-ài iōng-tio̍h Webpack tsiah ū thang tsò tāi-tsì.
 
-Django是Python寫--的一个開放的框，伊軟體設計用MVT的模式，MVT分別代表Model模型，View介面佮Template枋模。
-Django sī Python siá-ê tsi̍t-ê khai-hòng-ê khong, i nńg-thé siat-kè iōng MVT ê bôo-sik, mVT hun-piat tāi-piáu Model bôo-hîng, view kài-bīn kah Template pang-bôo.
+Django是Python寫的一个開放的框，伊的軟體設計用MVT的模式，MVT分別代表Model模型，View介面佮Template枋模。
+Django sī Python siá ê tsi̍t-ê khai-hòng ê khing, i ê nńg-thé siat-kè iōng MVT ê bôo-sik, MVT hun-piat tāi-piáu Model bôo-hîng, View kài-bīn kah Template pang-bôo.
 
-伊這馬寫的javascript攏是用NodeJS走--的。
-I tsit-má siá-ê javascript lóng-sī-īng NodeJS tsáu-ê.
+伊這馬寫的Javascript攏是用NodeJS走--的。
+I tsit-má siá ê Javascript lóng-sī iōng NodeJS tsáu--ê.
 
-誠濟學校頭一門課就是教C++ 的。
-Tsiânn-tsē ha̍k-hāu thâu tsi̍t-mn̂g khò tō-sī kà C+ + ê.
+誠濟學校頭一門課就是教C++的。
+Tsiânn tsē ha̍k-hāu thâu tsi̍t mn̂g khò tō sī kà C plus plus--ê.
 
 我是寫C的，你咧？
-Guá-sī siá C ê, lí--leh?
+Guá sī siá C--ê, lí--leh?
 
 我拄才去看車，TIIDA敢若閣袂bai2。
 Guá tú-tsiah khì-khuànn tshia, tIIDA kán-ná koh bē-bái.
