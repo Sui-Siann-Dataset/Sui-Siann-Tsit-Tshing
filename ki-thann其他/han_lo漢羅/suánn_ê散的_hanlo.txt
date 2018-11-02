@@ -46,8 +46,8 @@ A-ióng--á tsē siánn-mih tshia khì siāng-pan?
 阿君--仔是坐啥物車來？哪會到這陣猶未到。
 A-kun--á sī tsē siánn-mih tshia lâi? Ná-ē kàu tsit-tsūn iáu-buē kàu.
 
-電視講這禮拜的天氣按怎？出門敢(kánn)需要注意啥物？
-Tiān-sī kóng tsit lé-pài ê thinn-khì àn-tsuánn？Tshut-mn̂g kánn su-iàu tsù-ì siánn-mi̍h?
+電視講這禮拜的天氣啥款？出門敢(kánn)需要注意啥物？
+Tiān-sī kóng tsit lé-pài ê thinn-khì siánn-khuán? Tshut-mn̂g kánn su-iàu tsù-ì siánn-mi̍h?
 
 請問國仔是按怎看起來無精神？昨暗睏無飽是毋？抑是昨暗耍規暝？
 Tshiánn-mn̄g Kok--á sī án-tsuánn khuànn--khí-lâi bô tsing-sîn? Tsa-àm khùn bô pá sī--m̄? Ia̍h-sī tsa-àm sńg kui mê?
@@ -506,22 +506,22 @@ Khó-lîng bô-huat-tōo tsún-sî, sit-lé.
 Lí hōo phiàn sì-tsa̍p khoo khì.
 
 食到老才知死。
-Tsia̍h-kàu lāu tsiah tsai-sí.
+Tsia̍h kàu lāu tsiah tsai-sí.
 
-讀冊專心做會到，唱歌、運動逐項漚。
-Tha̍k-tsheh tsuan-sim tsò ē kàu, tshiùnn-kua, ūn-tōng ta̍k hāng àu.
+讀冊專心做會到，唱歌、運動逐項gâu。
+Tha̍k-tsheh tsuan-sim tsò ē kàu, tshiùnn-kua, ūn-tōng ta̍k hāng gâu.
 
 工夫到厝，欲食就有。
-Kang-hu kàu tshù, beh tsia̍h tio̍h-ū.
+Kang-hu kàu tshù, beh tsia̍h tō ū.
 
 彼毋是我。
-He m̄ sǐ guá.
+He m̄ sī guá.
 
 彼就(tiō)是我。
 He tiō sī guá.
 
 教材設計了䆀顛倒僫教、歹學。
-Kàu-tshâi siat-kè-liáu bái tian-tò oh kà, pháinn o̍h.
+Kàu-tshâi siat-kè liáu bái tian-tò oh kà, pháinn o̍h.
 
 軁袂過。
 Nǹg bē kuè.
@@ -529,32 +529,26 @@ Nǹg bē kuè.
 我物件做袂好勢。
 Guá mi̍h-kiānn tsò bē hó-sè.
 
-我物件做欲好勢的時就(tio̍h)先共你講一聲。
+我物件做欲好勢的時著先共你講一聲。
 Guá mi̍h-kiānn tsò beh hó-sè ê sî tio̍h sing kā lí kóng--tsi̍t-siann.
 
 我等足久呢！
-Guá tán tsiok kú ne!
-
-
-
-
-[提前]
-[ thê-tsîng ]
+Guá tán tsiok kú--neh!
 
 批伊寫過矣。
-Phue i siá-kuè--ah.
+Phue i siá--kuè--ah.
 
 珊仔爸罵過矣。
-Suan-á pa̋ mē-kuè--ah.
+Suan-á pa̋ mē--kuè--ah.
 
 為著你伊食遮濟苦。
 Uī-tio̍h lí i tsia̍h tsiah tsē khóo.
 
 這條路我誠熟。
-Tsit-tiâu-lōo guá tsiânn si̍k.
+Tsit tiâu lōo guá tsiânn si̍k.
 
 電影我是誠有興趣，但是恐怖片我就(to̍h)無啥興趣矣。
-Tiān-iánn guá sī tsiânn ū-hìng-tshù, tān-sī khióng-pòo-phiàn guá to̍h bô siánn hìng-tshù--ah.
+Tiān-iánn guá sī tsiânn ū hìng-tshù, tān-sī khióng-pòo-phìnn guá to̍h bô siánn hìng-tshù--ah.
 
 音樂伊上愛。
 Im-ga̍k i siōng ài.
@@ -563,10 +557,10 @@ Im-ga̍k i siōng ài.
 I tuì tsit ê siā-huē kài kuan-sim.
 
 對這个社會伊蓋關心。
-Tuì tsit-ê siā-huē i kài kuan-sim.
+Tuì tsit ê siā-huē i kài kuan-sim.
 
 這个社會伊蓋關心。
-Tsit-ê siā-huē i kài kuan-sim.
+Tsit ê siā-huē i kài kuan-sim.
 
 你欲講啥我攏知影。
 Lí beh kóng siannh guá lóng tsai-iánn.
@@ -575,13 +569,13 @@ Lí beh kóng siannh guá lóng tsai-iánn.
 Lí ê ì-sù guá liáu-kái.
 
 我已經舞清楚這件代誌矣，多謝你來阮兜共我通知。
-Guá í-king bú tshing-tshó tsit-kiānn tāi-tsì--ah, to-siā--lí lâi gún tau kā guá thong-ti.
+Guá í-king bú tshing-tshó tsit kiānn tāi-tsì--ah, to-siā lí lâi gún tau kā guá thong-ti.
 
 伊的消息我已經清楚矣，多謝你專工替伊走一逝。
-I ê siau-sit guá í-king tshing-tshó--ah, to-siā--lí tsuan-kang thè i tsáu tsi̍t-tsuā.
+I ê siau-sit guá í-king tshing-tshó--ah, to-siā lí tsuan-kang thè i tsáu tsi̍t tsuā.
 
-媽媽若知我就害。
-Ma-ma nā tsai guá tō hāi.
+媽若知我就害。
+Ma̋ nā tsai guá tō hāi.
 
 四條椅仔六个人坐。
 Sì tiâu í-á la̍k ê lâng tsē.
@@ -598,15 +592,6 @@ Hā-khò liáu-āu lāu-su kiò guá khì pān-kong-sik.
 兩三年前台北猶無遮濟人。
 Nn̄g-sann nî tsîng Tâi-pak iáu bô tsiah tsē lâng.
 
-
-
-
-
-
-
-[命令句]
-[ bīng-līng kù ]
-
 袂使!袂使!
 Bē-sái! Bē-sái!
 
@@ -622,8 +607,8 @@ Khì hōo i sí!
 共我擋咧！
 Kā guá tòng--leh!
 
-共我聽話！
-Kā guá thiann-uē!
+共我聽喙！
+Kā guá thiann-tshuì!
 
 
 
